@@ -1,0 +1,2 @@
+print("Python", "is", "fun")
+print("2 + 3 =", 2 + 3)

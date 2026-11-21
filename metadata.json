@@ -1,0 +1,8 @@
+{
+  "name": "Remix Souq Djelfa | سوق الجلفة",
+  "description": "منصة الجلفة الأولى لبيع وشراء العقارات، الهواتف الذكية، الحواسيب والتلفزيونات بواجهة احترافية متعددة اللغات",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
